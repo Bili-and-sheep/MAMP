@@ -1,0 +1,15 @@
+@media (prefers-color-scheme: dark) {
+    body {
+        --primary-color: #0f0f0f;
+        --menu-color: #0f0f0f;
+        --Burger-color: #e7e0ee;
+        --hover-color: #ededed;
+        --primary-text-color: #f0f0f0;
+        --second-text-color: #f0f0f0;
+        --sec-color: #1a1a1a;
+        --color: #f0f0f0;
+        --border-color: #ffffff46;
+        --box-shadow-color: #00000015;
+        --background-loader: #ffffff00;
+    }
+}

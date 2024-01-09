@@ -1,0 +1,42 @@
+[09-Jan-2024 11:00:28 UTC] PHP Notice:  Undefined variable: conn in /Applications/MAMP/htdocs/B1PHPEval/ex3.php on line 81
+[09-Jan-2024 11:00:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /Applications/MAMP/htdocs/B1PHPEval/ex3.php:81
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/B1PHPEval/ex3.php on line 81
+[09-Jan-2024 11:00:29 UTC] PHP Notice:  Undefined variable: conn in /Applications/MAMP/htdocs/B1PHPEval/ex3.php on line 81
+[09-Jan-2024 11:00:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /Applications/MAMP/htdocs/B1PHPEval/ex3.php:81
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/B1PHPEval/ex3.php on line 81
+[09-Jan-2024 11:00:34 UTC] PHP Notice:  Undefined variable: conn in /Applications/MAMP/htdocs/B1PHPEval/ex3.php on line 81
+[09-Jan-2024 11:00:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /Applications/MAMP/htdocs/B1PHPEval/ex3.php:81
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/B1PHPEval/ex3.php on line 81
+[09-Jan-2024 11:01:57 UTC] PHP Notice:  Undefined variable: conn in /Applications/MAMP/htdocs/B1PHPEval/ex3.php on line 83
+[09-Jan-2024 11:01:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /Applications/MAMP/htdocs/B1PHPEval/ex3.php:83
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/B1PHPEval/ex3.php on line 83
+[09-Jan-2024 11:02:05 UTC] PHP Notice:  Undefined variable: conn in /Applications/MAMP/htdocs/B1PHPEval/ex3.php on line 83
+[09-Jan-2024 11:02:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /Applications/MAMP/htdocs/B1PHPEval/ex3.php:83
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/B1PHPEval/ex3.php on line 83
+[09-Jan-2024 11:04:04 UTC] PHP Notice:  Undefined variable: conn in /Applications/MAMP/htdocs/B1PHPEval/ex3.php on line 83
+[09-Jan-2024 11:04:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /Applications/MAMP/htdocs/B1PHPEval/ex3.php:83
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/B1PHPEval/ex3.php on line 83
+[09-Jan-2024 11:08:05 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /Applications/MAMP/htdocs/B1PHPEval/ex3.php on line 91
+[09-Jan-2024 11:08:07 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /Applications/MAMP/htdocs/B1PHPEval/ex3.php on line 91
+[09-Jan-2024 11:08:11 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /Applications/MAMP/htdocs/B1PHPEval/ex3.php on line 91
+[09-Jan-2024 11:09:28 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /Applications/MAMP/htdocs/B1PHPEval/ex3.php on line 91
+[09-Jan-2024 11:09:34 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /Applications/MAMP/htdocs/B1PHPEval/ex3.php on line 91
+[09-Jan-2024 11:09:35 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /Applications/MAMP/htdocs/B1PHPEval/ex3.php on line 91
+[09-Jan-2024 11:09:36 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /Applications/MAMP/htdocs/B1PHPEval/ex3.php on line 91
+[09-Jan-2024 11:09:40 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /Applications/MAMP/htdocs/B1PHPEval/ex3.php on line 91
+[09-Jan-2024 11:09:44 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /Applications/MAMP/htdocs/B1PHPEval/ex3.php on line 91
+[09-Jan-2024 11:09:47 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /Applications/MAMP/htdocs/B1PHPEval/ex3.php on line 91
+[09-Jan-2024 11:10:00 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /Applications/MAMP/htdocs/B1PHPEval/ex3.php on line 91
+[09-Jan-2024 11:12:41 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /Applications/MAMP/htdocs/B1PHPEval/ex3.php on line 94
