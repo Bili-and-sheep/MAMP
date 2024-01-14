@@ -18,3 +18,8 @@
 [Tue Jan 09 11:46:14.986540 2024] [authz_core:error] [pid 21738] [client ::1:64279] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store, referer: http://localhost:8888/MAMP/?language=English
 [Tue Jan 09 11:49:36.055937 2024] [authz_core:error] [pid 21735] [client ::1:64357] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store, referer: http://localhost:8888/MAMP/?language=English
 [Tue Jan 09 11:50:27.377820 2024] [authz_core:error] [pid 21739] [client ::1:64371] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Jan 09 13:32:27.685025 2024] [mpm_prefork:notice] [pid 21729] AH00169: caught SIGTERM, shutting down
+[Sun Jan 14 10:20:08.736806 2024] [:notice] [pid 12449] FastCGI: process manager initialized (pid 12449)
+[Sun Jan 14 10:20:08.739383 2024] [mpm_prefork:notice] [pid 12445] AH00163: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 configured -- resuming normal operations
+[Sun Jan 14 10:20:08.739888 2024] [core:notice] [pid 12445] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Sun Jan 14 10:21:17.789333 2024] [authz_core:error] [pid 12450] [client ::1:63516] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store, referer: http://localhost:8888/MAMP/?language=English
