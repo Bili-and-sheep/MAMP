@@ -70,3 +70,4 @@ Version: '5.7.39'  socket: '/Applications/MAMP/tmp/mysql/mysql.sock'  port: 8889
 2024-01-14T12:33:07.702698Z 0 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
 2024-01-14T12:33:07.702713Z 0 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
 2024-01-14T12:33:07.702716Z 0 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2024-01-14T13:03:47.009461Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 479347ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
