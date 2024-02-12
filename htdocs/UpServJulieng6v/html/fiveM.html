@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page Web Simple</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+
+    <nav>
+        <nav>
+            <a href="index.html">Acceuil</a>
+            <a href="cat1.html">ISO Windows</a>
+            <a href="categorie2.html">Catégorie 2</a>
+            <a href="categorie3.html">Catégorie 3</a>
+        </nav>
+    </nav>
+
+    <section-container>
+        <section>
+            <h2>Contenu de la Catégorie 1</h2>
+            <button class="telechargementBtn">Télécharger</button>
+        </section>
+
+        <section>
+            <h2>Contenu de la Catégorie 2</h2>
+            <button class="telechargementBtn">Télécharger</button>
+        </section>
+
+        <section>
+            <h2>Contenu de la Catégorie 2</h2>
+            <button class="telechargementBtn">Télécharger</button>
+        </section>
+    </section-container>
+
+    <section-container>
+        <section>
+            <h2>Contenu de la Catégorie 1</h2>
+            <button class="telechargementBtn">Télécharger</button>
+        </section>
+
+        <section>
+            <h2>Contenu de la Catégorie 2</h2>
+            <button class="telechargementBtn">Télécharger</button>
+        </section>
+
+        <section>
+            <h2>Contenu de la Catégorie 2</h2>
+            <button class="telechargementBtn">Télécharger</button>
+        </section>
+    </section-container>
+
+
+
+
+    <script>
+        var telechargementBtns = document.querySelectorAll('.telechargementBtn');
+
+        telechargementBtns.forEach(function (btn) {
+            btn.addEventListener('click', function () {
+                var contenu = 'Contenu du fichier à télécharger pour la Catégorie.';
+                var blob = new Blob([contenu], { type: 'text/plain' });
+                var url = window.URL.createObjectURL(blob);
+                var a = document.createElement('a');
+                a.href = url;
+                a.download = 'fichier_categorie.txt';
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+                window.URL.revokeObjectURL(url);
+            });
+        });
+    </script>
+
+</body>
+
+</html>

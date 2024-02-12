@@ -15,7 +15,7 @@
     <nav>
 
         <ul id="menuGeneral">
-            <li><a href="./?action=accueil">Accueil</a></li> 
+            <li><a href="./?action=accueil">Accueil_TP1</a></li>
             <li><a href="./?action=liste">Liste</a></li> 
             <li></li>
             <li id="logo"><a href="./?action=accueil"><img src="images/logoBarre.png" alt="logo" /></a></li>
